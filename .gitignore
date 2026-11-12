@@ -1,0 +1,28 @@
+# Секреты
+.env
+.env.*
+*.pem
+*.key
+supabase/.temp/
+supabase/.branches/
+secrets.*
+service_role*
+
+# Данные
+*.csv
+!data/sample_questions.csv
+*.sqlite
+*.db
+dump*.sql
+backup*
+
+# Материалы экзаменов и картинки (авторские права)
+*.pdf
+img/
+assets/mascot/
+
+# Сборки и архивы
+*.zip
+node_modules/
+__pycache__/
+.DS_Store
