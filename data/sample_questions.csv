@@ -1,0 +1,26 @@
+id,lang,topic,bloom,text,options,answer
+demo01,ru,percent,apply,"Найдите 25% от числа 80.","15|20|25|30",20
+demo02,ru,perimeter,apply,"Периметр квадрата равен 36 см. Чему равна его сторона?","6 см|9 см|12 см|18 см",9 см
+demo03,ru,fractions,understand,"Какая дробь больше: 3/4 или 2/3?","3/4|2/3|они равны|нельзя сравнить",3/4
+demo04,ru,logic,analyze,"В классе 20 учеников. Каждый любит или футбол, или шахматы, или и то и другое. Футбол любят 14, шахматы 9. Сколько любят и то и другое?","1|3|5|7",3
+demo05,ru,sequence,apply,"Продолжите ряд: 2, 6, 18, 54, ...","108|162|72|216",162
+demo06,ru,area,apply,"Длина прямоугольника 7 см, ширина 8 см. Чему равна его площадь?","15 кв. см|28 кв. см|56 кв. см|64 кв. см",56 кв. см
+demo07,ru,multiples,apply,"Чему равно наименьшее общее кратное чисел 6 и 8?","14|24|48|12",24
+demo08,ru,decimals,apply,"Вычислите: 0,2 + 0,35","0,37|0,55|0,5|0,7","0,55"
+demo09,ru,division,remember,"Чему равно 144 : 12?","11|12|14|16",12
+demo10,en,percent,apply,"What is 15% of 240?","24|36|40|48",36
+demo11,en,speed,apply,"A train covers 180 km in 3 hours. What is its average speed?","45 km/h|60 km/h|90 km/h|120 km/h",60 km/h
+demo12,en,angles,understand,"Two angles of a triangle measure 65 and 70 degrees. What is the third angle?","35|45|55|65",45
+demo13,en,sequence,analyze,"Continue the sequence: 1, 4, 9, 16, ...","20|24|25|32",25
+demo14,en,fractions,understand,"Write 3/8 as a decimal.","0.325|0.375|0.38|0.625",0.375
+demo15,en,divisors,apply,"What is the greatest common divisor of 24 and 36?","6|8|12|18",12
+demo16,en,equations,apply,"Solve for x: 5x = 45","5|7|9|11",9
+demo17,en,probability,analyze,"A box holds 3 red balls and 5 blue balls. One ball is drawn at random. What is the probability that it is red?","3/8|3/5|5/8|1/3",3/8
+demo18,kk,percent,apply,"30 санының 40%-ын табыңыз.","10|12|15|18",12
+demo19,kk,area,apply,"Тіктөртбұрыштың ұзындығы 9 см, ені 4 см. Оның ауданы неге тең?","13 ш. см|26 ш. см|36 ш. см|45 ш. см",36 ш. см
+demo20,kk,division,remember,"144 : 12 амалын орындаңыз.","11|12|14|16",12
+demo21,kk,sequence,apply,"Қатарды жалғастырыңыз: 5, 10, 20, 40, ...","50|60|80|100",80
+demo22,kk,perimeter,apply,"Тең қабырғалы үшбұрыштың периметрі 24 см. Оның бір қабырғасы неге тең?","6 см|8 см|12 см|4 см",8 см
+demo23,kk,fractions,understand,"Есептеңіз: 1/2 + 1/4","1/6|2/6|3/4|1/3",3/4
+demo24,kk,subtraction,remember,"100 санынан 37 санын азайтыңыз.","53|63|67|73",63
+demo25,kk,multiples,apply,"4 пен 6 сандарының ең кіші ортақ еселігі неге тең?","10|12|18|24",12
